@@ -9,7 +9,7 @@ var imgUrl = 'https://comedymood.com/wp-content/uploads/2017/05/comedymood_logo.
 checkImgExists(imgUrl, successOnImgExits, failureOnImgExits);
 
 function successOnImgExits(){
-    document.body.style.backgroundImage = "url('" + this.src + "')";	
+	document.body.style.backgroundImage = "url('" + this.src + "')";	
 	alert(true     );
 }
 
