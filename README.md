@@ -2,7 +2,9 @@
 Using this script, you can check either certain image exits or not using native javascript.
 Based on the result you can use calback function. 
 <h2>uses</h2>
-    
+<i>Download checkImage.js and add in your html or php page. for mode details check index.html</i>
+<br />
+
 ```javascript
 
 var imgUrl = 'https://comedymood.com/wp-content/uploads/2017/05/comedymood_logo.png';
