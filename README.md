@@ -1,0 +1,1 @@
+# check-Image-exists-or-404-status-using-javascript
